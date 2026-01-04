@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karasuma-2401
-- 👀 I’m interested in books
+- 👀 I’m interested in Film
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me ...
