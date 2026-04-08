@@ -47,5 +47,31 @@
 </p>
 
 ---
-## 🐍 Snake Contribution
-![snake gif](https://raw.githubusercontent.com/karasuma-2401/karasuma-2401/output/github-contribution-grid-snake-dark.svg)
+## Projects Contribution
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karasuma-2401/karasuma-2401/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karasuma-2401/karasuma-2401/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/karasuma-2401/karasuma-2401/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+---
+
+## 🛠️ Featured Projects
+<p align="center">
+  <a href="https://github.com/karasuma-2401/FoodDeliveryMobileAppFE">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=karasuma-2401&repo=FoodDeliveryMobileAppFE&theme=react&hide_border=true" />
+  </a>
+  <a href="https://github.com/karasuma-2401/ChessGameAppDesktop">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=karasuma-2401&repo=ChessGameAppDesktop&theme=react&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 🎬 My Favourite Films
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ba30b7a-bd53-47d4-9b9b-e9fe1d7801e0" height="250px" style="object-fit: cover;" alt="Dr. Romantic" />
+  <img src="https://github.com/user-attachments/assets/59f7f67b-2b9e-44ec-8817-905fd1f0b227" height="250px" style="object-fit: cover;" alt="A Good News" />
+  <img src="https://github.com/user-attachments/assets/a596ab8a-2ba1-483b-a6c5-c81ff6a4fa41" height="250px" style="object-fit: cover;" alt="How I Met Your Mother" />
+  <img src="https://github.com/user-attachments/assets/011d17a2-f795-4286-b7ab-312a510cd59c" height="250px" style="object-fit: cover;" alt="Inception" />
+</p>
