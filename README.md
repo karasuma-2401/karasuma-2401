@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @karasuma-2401
-- 👀 I’m interested in Film
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-karasuma-2401/karasuma-2401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img src="![banner](https://github.com/user-attachments/assets/fc4e8eba-bff5-4585-909f-9c339547778c)
+" alt="My Banner" width="100%" />
+  <br/>
+  <i>"Code, Film and My family"</i> 
+</div>
