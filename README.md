@@ -45,3 +45,7 @@
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=karasuma-2401&theme=react&hide_border=true" />
 </p>
+
+---
+## 🐍 Snake Contribution
+![snake gif](https://raw.githubusercontent.com/karasuma-2401/karasuma-2401/output/github-contribution-grid-snake-dark.svg)
