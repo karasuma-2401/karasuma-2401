@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="![banner](https://github.com/user-attachments/assets/fc4e8eba-bff5-4585-909f-9c339547778c)
-" alt="My Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/bb398913-372b-4532-9476-f7a59cc34e2c" alt="My Banner" width="100%" />
   <br/>
   <i>"Code, Film and My family"</i> 
 </div>
