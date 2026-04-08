@@ -60,7 +60,7 @@
 ---
 ## 📊 WakaTime Weekly Metrics
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=karasuma_2401&layout=compact&theme=react&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=karasuma_2401&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ---
