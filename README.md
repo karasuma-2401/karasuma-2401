@@ -58,9 +58,9 @@
 </p>
 
 ---
-## 📊 WakaTime Weekly Metrics
+## 📊 WakaTime All Time Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=karasuma_2401&layout=compact&theme=react&hide_border=true&range=all_time&v=final" width="100%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/wakatime?username=karasuma_2401&layout=compact&theme=react&hide_border=true&range=all_time" width="100%" />
 </p>
 
 ---
