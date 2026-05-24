@@ -20,7 +20,7 @@
 🌈 You can call me **Win Pear**. I'm a **Software Engineering** student passionate about building high-performance applications and exploring the world of AI.
 
 - 🎯 **Current Focus:** Kotlin is the best, **".NET is a technology of the future**, and **Computer Vision** research.
-- 🔬 **Research:** Currently participating in scientific research focused on **Computer Vision** applications.
+- 🔬 **Research:** Currently participating in scientific research focused on **Computer Vision** applications, [but not have paper].
 - 📫 **Connect with me:** <a href="https://www.facebook.com/thangle2401/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="mailto:leminhthang24012006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://blog.naver.com/wp_2401"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" /></a>
