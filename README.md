@@ -80,8 +80,11 @@
   <a href="https://github.com/karasuma-2401/FoodDeliveryMobileAppFE">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=karasuma-2401&repo=FoodDeliveryMobileAppFE&theme=react&hide_border=true" />
   </a>
-  <a href="https://github.com/karasuma-2401/ChessGameAppDesktop">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=karasuma-2401&repo=ChessGameAppDesktop&theme=react&hide_border=true" />
+  <a href="https://github.com/karasuma-2401/JobPortalFE">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=karasuma-2401&repo=JobPortalFE&theme=react&hide_border=true" />
+  </a>
+  <a href="https://github.com/karasuma-2401/BookStore_Management_AppDesktop">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=karasuma-2401&repo=BookStore_Management_AppDesktop&theme=react&hide_border=true" />
   </a>
 </p>
 
